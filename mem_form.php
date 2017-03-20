@@ -17,7 +17,7 @@
 				</tr>
 				<tr>
 					<td align="right">* 비밀번호 :</td>
-					<td><input type="password" size="15" maxlength="12" name="passwd_confirm"></td>
+					<td><input type="password" size="15" maxlength="12" name="passwd"></td>
 				</tr>
 				<tr>
 					<td align="right">* email : </td>
